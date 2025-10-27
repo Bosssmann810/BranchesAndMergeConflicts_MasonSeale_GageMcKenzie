@@ -11,6 +11,7 @@ namespace BranchesAndMergeConflicts_MasonSeale_GageMcKenzie
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("a change");
         }
     }
 }
