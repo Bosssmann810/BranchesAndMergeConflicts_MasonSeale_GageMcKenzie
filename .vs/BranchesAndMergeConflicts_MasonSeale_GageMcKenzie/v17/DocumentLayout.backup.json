@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mason unity\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B0F63F-9B5A-4DF4-A993-1D170FAB2FA6}|BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie.csproj|c:\\mason unity\\branchesandmergeconflicts_masonseale_gagemckenzie\\branchesandmergeconflicts_masonseale_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B0F63F-9B5A-4DF4-A993-1D170FAB2FA6}|BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie.csproj|solutionrelative:branchesandmergeconflicts_masonseale_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mason unity\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\Program.cs",
+              "RelativeDocumentMoniker": "BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\Program.cs",
+              "ToolTip": "C:\\mason unity\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\Program.cs",
+              "RelativeToolTip": "BranchesAndMergeConflicts_MasonSeale_GageMcKenzie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:16:57.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
